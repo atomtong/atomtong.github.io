@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 ---
 
-*welcom to atomtong's bolg*.
+*welcom to atomtong's blog*.
 
 -----
 分享和学习,是不断进步的源动力。
