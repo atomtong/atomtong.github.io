@@ -1,7 +1,6 @@
 ---
 layout: page
 title: HashMaps, ArrayMaps and SparseArrays in Android
-categories: Android,java
 ---
 
 [原文链接](http://deepakmishra.me/blog/index.php/2015/10/19/hashmaps-arraymaps-and-sparsearrays-in-android/)
