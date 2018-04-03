@@ -25,4 +25,4 @@ title: Introduction
 
 ```
 
-Thanks!
+Thanks! 本blog采用 [jekyll](http://jekyllcn.com/docs/structure/) 搭建 感谢 jekyll 团队!
